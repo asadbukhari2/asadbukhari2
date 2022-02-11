@@ -29,6 +29,8 @@
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
 
 &nbsp;&nbsp;
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/asdbukhari)
+
 [![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/asdbukhari)
 
 <!-- [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) -->
