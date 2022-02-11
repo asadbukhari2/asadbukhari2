@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HTML5" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40scwgXKFTXYSluNhlmzE-oL1_JXWb2jTJw&usqp=CAU" style="padding-right:10px;" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-globe-icon-png-image_3787753.jpg" style="padding-right:10px;" />][website]
 
 <!-- &nbsp;&nbsp; -->
 
