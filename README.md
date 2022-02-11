@@ -22,13 +22,14 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40scwgXKFTXYSluNhlmzE-oL1_JXWb2jTJw&usqp=CAU" style="padding-right:10px;" />][website]
 
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/asdbukhari)
 
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/m-asad-bukhari/)
+<br/>
 
 ### Languages and Tools:
 
