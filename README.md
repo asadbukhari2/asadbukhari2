@@ -44,6 +44,18 @@
 
 </details>
 
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.6
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+
+
 [website]: https://asadbukhari.hashnode.dev/
 [twitter]: https://twitter.com/asdbukhari
 [instagram]: https://www.instagram.com/asad___bukhari/
