@@ -44,9 +44,13 @@
 <br />
 <br />
 
+<p align="center">
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
+
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
