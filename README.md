@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,react,nextjs,graphql,nodejs,vscode,tailwind,linux,gitlab,github,git,docker&perline=5)" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,react,nextjs,graphql,nodejs,vscode,tailwind,linux,gitlab,github,git,docker&perline=5" />
   </a>
 </p>
 
