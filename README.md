@@ -31,7 +31,6 @@
 </p>
 
 <br />
-<br />
 
 ### Daily Jokes
 
