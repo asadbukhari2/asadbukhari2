@@ -1,8 +1,10 @@
 # Hi there, I'm Asad bukhari 👋
 #### A curious Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on ERP system for my FYP 
+- 🌱 I’m currently learning nodejs & OSS 
+- 👯 I’m looking to collaborate on SASS 
+- 💬 Ask me about JavaScript 
 - 🥅 2022 Goals: Learn more about Nodejs & OSS
 - ⚡ Fun fact: I love to play foosball
 
