@@ -2,7 +2,7 @@
 #### A curious Developer
 
 - 🔭 I’m currently working on ERP system for my FYP 
-- 🌱 I’m currently learning nodejs & OSS 
+- 🌱 I’m currently learning Nodejs & OSS 
 - 👯 I’m looking to collaborate on SASS 
 - 💬 Ask me about JavaScript 
 - 🥅 2022 Goals: Learn more about Nodejs & OSS
@@ -12,16 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HTML5" width="26px" src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-globe-icon-png-image_3787753.jpg" style="padding-right:10px;" />][website]
 
-<!-- &nbsp;&nbsp; -->
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/asdbukhari)
-
-<!-- &nbsp;&nbsp; -->
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/m-asad-bukhari/)
-<br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asdbukhari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://asadbukhari.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/m-asad-bukhari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/asad___bukhari//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/asdbukhari)  
 
 ### Languages and Tools:
 
@@ -51,8 +43,3 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asdbukhari)  
 
-
-[website]: https://asadbukhari.hashnode.dev/
-[twitter]: https://twitter.com/asdbukhari
-[instagram]: https://www.instagram.com/asad___bukhari/
-[linkedin]: https://www.linkedin.com/in/m-asad-bukhari
