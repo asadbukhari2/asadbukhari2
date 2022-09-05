@@ -18,6 +18,8 @@
 - ⚡ Fun fact: I love to play foosball
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
+![](https://komarev.com/ghpvc/?username=asdbukhari)
+
 ### Connect with me:
 
 [<img align="left" alt="HTML5" width="26px" src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-globe-icon-png-image_3787753.jpg" style="padding-right:10px;" />][website]
