@@ -34,30 +34,19 @@
 <br/>
 
 ### Languages and Tools:
-<!-- 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,react,nextjs,graphql,nodejs,vscode,tailwind,linux,gitlab,github,git,docker&perline=6" />
   </a>
 </p>
-<!-- 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,graphql,nodejs,vscode,tailwind,linux,gitlab,github,git,docker&perline=5)](https://skillicons.dev)
- -->
+
 <br />
 <br />
 
 ---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
