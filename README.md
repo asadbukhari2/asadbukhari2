@@ -46,6 +46,12 @@
 <img align="left" alt="nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,react,nextjs,graphql,nodejs,vscode,tailwind,linux,gitlab,github,git,docker&perline=5)" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,graphql,nodejs,vscode,tailwind,linux,gitlab,github,git,docker&perline=5)](https://skillicons.dev)
 
 <br />
