@@ -36,7 +36,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdbukhari)]
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asdbukhari&show_icons=true&count_private=true) -->
 
