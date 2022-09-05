@@ -1,6 +1,5 @@
 # Hi there, I'm Asad bukhari 👋
-
-## I'm a Developer & always Learning!!
+#### A curious Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
