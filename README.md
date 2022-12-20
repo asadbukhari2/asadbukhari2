@@ -98,13 +98,13 @@
     </td>
       <td align="center" width="96"> 
       <a href="#asdbukhari-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="48" height="40" alt="MySQL_DB" />
+        <img src="https://www.svgrepo.com/show/373644/graphql.svg" width="48" height="40" alt="GraphQl" />
       </a>
-      <br>My SQL
+      <br>GraphQl
       </td>
       <td align="center" width="96"> 
       <a href="#asdbukhari-tech" >
-        <img src="https://www.svgrepo.com/show/349342/docker.svg" width="48" height="40" alt="MySQL_DB" />
+        <img src="https://www.svgrepo.com/show/349342/docker.svg" width="48" height="40" alt="Docker" />
       </a>
       <br>Docker
       </td>
