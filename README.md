@@ -38,6 +38,12 @@
       </a>
       <br>React JS
     </td>
+    <td align="center" width="96"> 
+      <a href="#asdbukhari-tech" >
+        <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="48" height="40" alt="NextJs" />
+      </a>
+      <br>Next Js
+      </td>
     <td align="center" width="96">
       <a href="#asdbukhari-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
@@ -108,21 +114,17 @@
       </a>
       <br>AWS
       </td>
-      <td align="center" width="96"> 
-      <a href="#asdbukhari-tech" >
-        <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="48" height="40" alt="NextJs" />
-      </a>
-      <br>Next Js
-      </td>
+      
   </tr>
 
 </table>
 <!-- 
 ### Daily Jokes
 
-<!-- ## ![Jokes Card](https://readme-jokes.vercel.app/api) --> -->
+<!-- ## ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-<section style="full">
+<section width="100%">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdbukhari)
 
 </section>
