@@ -123,10 +123,7 @@
 
 <!-- ## ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-<section width="100%">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdbukhari)
 
-</section>
 [linkedin]: https://www.linkedin.com/in/m-asad-bukhari "LinkedIn"
 [twitter]: https://twitter.com/asdbukhari "Twitter"
