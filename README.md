@@ -20,7 +20,7 @@
 [<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />][linkedin]
 <br />
 
-<h2 align="left" id="rayanabid-tech">Favorite Tech</h2>
+<h2 align="left" id="asdbukhari-tech">Favorite Tech</h2>
 
 > Skills 📝.
 
@@ -104,30 +104,27 @@
       </td>
       <td align="center" width="96"> 
       <a href="#asdbukhari-tech" >
-        <img src="https://www.svgrepo.com/show/373458/aws.svg" width="48" height="40" alt="MySQL_DB" />
+        <img src="https://www.svgrepo.com/show/373458/aws.svg" width="48" height="40" alt="AWS" />
       </a>
       <br>AWS
+      </td>
+      <td align="center" width="96"> 
+      <a href="#asdbukhari-tech" >
+        <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="48" height="40" alt="NextJs" />
+      </a>
+      <br>Next Js
       </td>
   </tr>
 
 </table>
-
+<!-- 
 ### Daily Jokes
 
-## ![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ## ![Jokes Card](https://readme-jokes.vercel.app/api) --> -->
 
+<section style="full">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdbukhari)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asdbukhari&show_icons=true&count_private=true) -->
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asdbukhari&show_icons=true&count_private=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asdbukhari)
-
+</section>
 [linkedin]: https://www.linkedin.com/in/m-asad-bukhari "LinkedIn"
 [twitter]: https://twitter.com/asdbukhari "Twitter"
