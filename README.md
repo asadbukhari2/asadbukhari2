@@ -6,10 +6,10 @@
 
 #### A curious Developer
 
-- 🔭 I’m currently working on ERP system for my FYP
-- 🌱 I’m currently learning Nodejs & OSS
+- 🔭 I’m currently working on a openchat a chat app
+- 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate and learn the world of open source
-- 🥅 2023 Goals: Learn more about Nodejs & GO
+- 🥅 2023 Goals: Learn more about MERN stack & system design
 - ⚡ Fun fact: I love to play foosball
 
 ![](https://komarev.com/ghpvc/?username=asdbukhari&label=PROFILE+VIEWS)
@@ -114,7 +114,14 @@
       </a>
       <br>AWS
       </td>
-      
+  </tr>
+  <tr>
+  <td align="center" width="96"> 
+      <a href="#asdbukhari-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Moengage_logo.png" width="48" height="40" alt="moengage" />
+      </a>
+      <br>MoEngage
+      </td>
   </tr>
 
 </table>
