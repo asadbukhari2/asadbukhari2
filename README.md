@@ -6,7 +6,7 @@
 
 #### A curious Developer
 
-- 🔭 I’m currently working on a openchat a chat app
+- 🔭 I’m currently working on a free comic search react-native app
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate and learn the world of open source
 - 🥅 2023 Goals: Learn more about MERN stack & system design
