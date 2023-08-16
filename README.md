@@ -6,8 +6,8 @@
 
 #### A curious Developer
 
-- 🔭 I’m currently working on a free comic search react-native app
-- 🌱 I’m currently learning MongoDB
+- 🔭 I’m currently working on a laundry app
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate and learn the world of open source
 - 🥅 2023 Goals: Learn more about MERN stack & system design
 - ⚡ Fun fact: I love to play foosball
@@ -16,9 +16,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" alt="Twitter" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />](https://twitter.com/your_username)
+[<img align="left" alt="LinkedIn" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />](https://www.linkedin.com/in/your_username)
+[<img align="left" alt="Website" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/globe-xxl.png" />](https://yourwebsite.com)
+[<img align="left" alt="Facebook" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/facebook-xxl.png" />](https://www.facebook.com/your_username)
+[<img align="left" alt="Instagram" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/instagram-xxl.png" />](https://www.instagram.com/your_username)
 <br />
+
 
 <h2 align="left" id="asdbukhari-tech">Favorite Tech</h2>
 
@@ -127,6 +131,3 @@
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdbukhari)
-
-[linkedin]: https://www.linkedin.com/in/m-asad-bukhari "LinkedIn"
-[twitter]: https://twitter.com/asdbukhari "Twitter"
