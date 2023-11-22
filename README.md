@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />](https://twitter.com/)
+[<img align="left" alt="Twitter" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />](https://twitter.com/asdbukhari)
 [<img align="left" alt="LinkedIn" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />](https://www.linkedin.com/in/asdbukhari)
 [<img align="left" alt="Website" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/globe-xxl.png" />](https://asdbukhari.com)
 [<img align="left" alt="Facebook" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/facebook-xxl.png" />](https://www.facebook.com/your_username)
-[<img align="left" alt="Instagram" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/instagram-xxl.png" />](https://www.instagram.com/your_username)
+[<img align="left" alt="Instagram" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/instagram-xxl.png" />](https://www.instagram.com/asad___bukhari/)
 <br />
 
 
