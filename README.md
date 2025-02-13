@@ -6,10 +6,10 @@
 
 #### A curious Developer
 
-- 🔭 I’m currently working on a laundry app
+- 🔭 I’m currently learning
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate and learn the world of open source
-- 🥅 2023 Goals: Learn more about MERN stack & system design
+- 👯 I’m looking to collaborate and learn the world of open-source
+- 🥅 2025 Goals: Learn more about MERN stack & system design
 - ⚡ Fun fact: I love to play foosball
 
 ![](https://komarev.com/ghpvc/?username=asdbukhari&label=PROFILE+VIEWS)
