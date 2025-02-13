@@ -6,10 +6,10 @@
 
 #### A curious Developer
 
-- 🔭 I’m currently learning
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently Open to Work 
+- 🌱 I’m currently learning Backend Design Pattern
 - 👯 I’m looking to collaborate and learn the world of open-source
-- 🥅 2025 Goals: Learn more about MERN stack & system design
+- 🥅 2025 Goals: Learn more about Data Structures & system design
 - ⚡ Fun fact: I love to play foosball
 
 ![](https://komarev.com/ghpvc/?username=asdbukhari&label=PROFILE+VIEWS)
@@ -17,9 +17,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />](https://twitter.com/asdbukhari)
-[<img align="left" alt="LinkedIn" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />](https://www.linkedin.com/in/asdbukhari)
-[<img align="left" alt="Website" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/globe-xxl.png" />](https://asdbukhari.com)
-[<img align="left" alt="Facebook" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/facebook-xxl.png" />](https://www.facebook.com/your_username)
+[<img align="left" alt="LinkedIn" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />](https://www.linkedin.com/in/asadbukhari1)
+[<img align="left" alt="Website" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/globe-xxl.png" />](https://asadbukhari.com)
 [<img align="left" alt="Instagram" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/instagram-xxl.png" />](https://www.instagram.com/asad___bukhari/)
 <br />
 
