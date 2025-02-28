@@ -1,4 +1,4 @@
-# Hi there, I'm Asad bukhari 👋
+# Hi there, I'm Asad Bukhari 👋
 
 <a href="#asdbukhari-title">
   <img src="https://github-readme-stats.vercel.app/api?username=asdbukhari&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Asad Bukhari"  align="right"/>
@@ -12,7 +12,7 @@
 - 🥅 2025 Goals: Learn more about Data Structures & system design
 - ⚡ Fun fact: I love to play foosball
 
-![](https://komarev.com/ghpvc/?username=asdbukhari&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=asadbukhari2&label=PROFILE+VIEWS)
 
 ### Connect with me:
 
@@ -22,10 +22,25 @@
 [<img align="left" alt="Instagram" width="20px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/instagram-xxl.png" />](https://www.instagram.com/asad___bukhari/)
 <br />
 
-
 <h2 align="left" id="asdbukhari-tech">Favorite Tech</h2>
 
 > Skills 📝.
+
+### **Core Technologies**
+- JavaScript (ES6+)
+- React.js, Next.js
+- Node.js, Express.js
+- MongoDB, PostgreSQL
+- Tailwind CSS, Material UI, Bootstrap
+- GraphQL, REST APIs
+- AWS, Docker, CI/CD
+- Webhooks & 3rd Party Integrations
+
+### **Work with:**
+- **Payment & Banking**: Stripe, SWAN.io, Integrated Finance
+- **Automation & SaaS**: Tokeet.com
+- **Messaging & Communication**: Socket.io, WebRTC
+- **Cloud & DevOps**: AWS, Docker, CI/CD Pipelines
 
 <table align="center">
   <tr>
@@ -42,7 +57,7 @@
       <br>React JS
     </td>
     <td align="center" width="96"> 
-      <a href="#asdbukhari-tech" >
+      <a href="#asdbukhari-tech">
         <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="48" height="40" alt="NextJs" />
       </a>
       <br>Next Js
@@ -65,7 +80,6 @@
       </a>
       <br>MongoDB
     </td>
-     </td>
         <td align="center" width="96">
       <a href="#asadbukhari-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
@@ -81,7 +95,7 @@
       </a>
       <br>Git
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#asdbukhari-tech">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
@@ -91,7 +105,7 @@
       <a href="#asdbukhari-tech">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Material ui
+      <br>Material UI
     </td>
     <td align="center" width="96"> 
       <a href="#asdbukhari-tech" >
@@ -101,9 +115,9 @@
     </td>
       <td align="center" width="96"> 
       <a href="#asdbukhari-tech" >
-        <img src="https://www.svgrepo.com/show/373644/graphql.svg" width="48" height="40" alt="GraphQl" />
+        <img src="https://www.svgrepo.com/show/373644/graphql.svg" width="48" height="40" alt="GraphQL" />
       </a>
-      <br>GraphQl
+      <br>GraphQL
       </td>
       <td align="center" width="96"> 
       <a href="#asdbukhari-tech" >
@@ -129,4 +143,4 @@
 
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdbukhari)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbukhari2)
