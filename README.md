@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Asad Bukhari</h1>
-<p align="center">🚀 Full-Stack Developer | SaaS Builder | React & Node.js Specialist</p>
+<h1 align="center">Hi 👋, I'm Asad Bukhari — a tech enthusiast from Pakistan</h1>
+<p align="center">🚀 Software Developer at Webevis Technologies</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a full-stack software engineer focused on building scalable, high-performance web apps.
+- 🔭 Just started writing blogs.
+- 👯 I’m looking to collaborate and learn the world of open source.
 - 💡 I work with **React, Next.js, Node.js, Express, MongoDB, PostgreSQL**, and cloud services like AWS.
 - 🛠️ I specialize in building **white-labeled solutions**, POS systems, and digital banking applications.
 - 📬 I'm available for **remote opportunities** and **freelance gigs**.
@@ -15,7 +16,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,mongodb,postgres,redis,aws,docker,figma,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,js,ts,mongodb,postgres,redis,aws,docker,figma,github,vscode,npm,bitbuckt,postman" />
 </p>
 
 ---
@@ -41,5 +42,5 @@
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/asadbukhari2)
-- 📝 [Blog on Dev.to](https://dev.to/asadbukhari2)
-- 💻 [Portfolio Website](#) _(Add your site link if available)_
+- 📝 [Blog on Dev.to](https://dev.to/asadbukhari)
+<!-- - 💻 [Portfolio Website](#) _(Add your site link if available)_ -->
