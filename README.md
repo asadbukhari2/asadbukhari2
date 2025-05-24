@@ -24,8 +24,8 @@
 ### 📘 Latest Blog Posts on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix CORS errors in Node.js](https://dev.to/asadbukhari/8-common-cors-errors-in-web-development-and-how-to-fix-them-in-nodejs-2pca)
 - [Build Fast, Build Smart: How I Use APIs to Launch MVPs in Days — Not Weeks](https://dev.to/asadbukhari/build-fast-build-smart-how-i-use-apis-to-launch-mvps-in-days-not-weeks-37jh)
-- [[Boost]](https://dev.to/asadbukhari/-2mmi)
 - [The Future of Login Systems: Biometric Authentication](https://dev.to/asadbukhari/biometric-authentication-in-web-mobile-apps-the-future-of-login-systems-3n0b)
 - [How to Edit Commit Messages: Amending Git Commits](https://dev.to/asadbukhari/how-to-fix-mistakes-in-commit-messages-amending-git-commits-11io)
 - [Switch Branches in Git Without Losing Your Work](https://dev.to/asadbukhari/switch-branches-in-git-without-losing-your-work-2o18)
