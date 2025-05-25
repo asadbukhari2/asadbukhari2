@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Asad Bukhari — a tech enthusiast from Pakistan</h1>
+<h1 align="center">Hey 👋, I'm Asad Bukhari — a tech enthusiast based in Pakistan</h1>
 <p align="center">🚀 Software Developer at Webevis Technologies</p>
 
 ---
